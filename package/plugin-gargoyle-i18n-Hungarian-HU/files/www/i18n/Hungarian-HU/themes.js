@@ -1,6 +1,6 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for themes.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for themes.sh html elements
  */
 
-thmS.TMSect="Themes manager";
-thmS.Thm="Theme";
+thmS.TMSect="Témakezelő";
+thmS.Thm="Téma";

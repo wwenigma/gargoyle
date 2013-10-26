@@ -1,22 +1,22 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for time.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for time.sh html elements
  */
 
-timeStr.Section="Time";
-timeStr.CurrTime="Current Date &amp; Time";
-timeStr.TimeZone="Time Zone";
-timeStr.DateForm="Date Format";
-timeStr.TimeForm="Time Format";
-timeStr.TServers="NTP Servers";
-timeStr.Global="Global";
-timeStr.US="United States";
-timeStr.NA="North America";
-timeStr.SA="South America";
-timeStr.EU="Europe";
-timeStr.Af="Africa";
-timeStr.As="Asia";
-timeStr.Oc="Oceania";
-timeStr.Cust="Custom";
+timeStr.Section="Idő";
+timeStr.CurrTime="Jelenlegi dátum és idő";
+timeStr.TimeZone="Időzóna";
+timeStr.DateForm="Dátumformátum";
+timeStr.TimeForm="Időformátum";
+timeStr.TServers="NTP szerverek";
+timeStr.Global="Globál";
+timeStr.US="Egyesült Államok";
+timeStr.NA="Észak Amerika";
+timeStr.SA="Dél Amerika";
+timeStr.EU="Európa";
+timeStr.Af="Afrika";
+timeStr.As="Ázsia";
+timeStr.Oc="Óceánia";
+timeStr.Cust="Egyéni";
 
 //timezones
 TiZ.UTC12="Kwajalein";
@@ -42,7 +42,7 @@ TiZ.STD1="Azores";
 TiZ.UTC0="Gambia, Liberia, Morocco";
 TiZ.GMT0="England";
 TiZ.UTCm1="Tunisia";
-TiZ.CETm1="France, Germany, Hungary, Italy, Poland";
+TiZ.CETm1="France, Germany, Magyarország, Italy, Poland";
 TiZ.UTCm2="South Africa";
 TiZ.STDm2="Greece, Ukraine, Romania, Turkey";
 TiZ.UTCm3="Iraq, Jordan, Kuwait";

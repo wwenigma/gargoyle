@@ -1,26 +1,26 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for webshell.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for webshell.sh html elements
  */
 
 dlna.DLNA="DLNA";
-dlna.DLNAEn="Enable DLNA";
-dlna.StatDLNA="DLNA Status";
-dlna.RescanDLNA="Rescan media";
-dlna.DLNASName="Server name";
+dlna.DLNAEn="DLNA engedélyezés";
+dlna.StatDLNA="DLNA Státusz";
+dlna.RescanDLNA="Média újrakeresés";
+dlna.DLNASName="Szerver név";
 dlna.DLNAStr="Strict DLNA";
-dlna.DLNAMType="Media type";
-dlna.DLNAAll="All";
-dlna.DLNAA="Audio";
-dlna.DLNAV="Video";
-dlna.DLNAI="Image";
+dlna.DLNAMType="Média típus";
+dlna.DLNAAll="Mind";
+dlna.DLNAA="Hang";
+dlna.DLNAV="Videó";
+dlna.DLNAI="Kép";
 dlna.DLNADrive="Drive";
-dlna.DLNAMFolder="Media folder";
-dlna.DLNAFolders="Folders list";
+dlna.DLNAMFolder="Médiakönyvtár";
+dlna.DLNAFolders="Könyvtárlista";
 
-dlna.Totl="Total";
-dlna.Free="Free";
-dlna.Drv="Drive";
-dlna.Dir="Folder";
+dlna.Totl="Összesen";
+dlna.Free="Szabad";
+dlna.Drv="Meghajtó";
+dlna.Dir="Könyvtár";
 
-dlna.ERRAllrAdd="This folder is already added";
-dlna.ERRSName="DLNA server name can not be empty";
+dlna.ERRAllrAdd="Ez a könyvtár már hozzá van adva";
+dlna.ERRSName="DLNA szervernév nem lehet üres";

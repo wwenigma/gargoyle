@@ -1,40 +1,40 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for USB Storage html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for USB Storage html elements
  */
 
-usbSStr.SDisk="Shared Disks";
-usbSStr.Nomdsk="No mounted USB disks detected";
-usbSStr.WFTP="Allow Access to FTP From WAN";
-usbSStr.WpFTP="Allow Passive FTP From WAN on ports";
-usbSStr.CFWkg="CIFS Workgroup";
-usbSStr.CFUsr="CIFS / FTP Users";
-usbSStr.NewU="New User";
-usbSStr.AddU="Add User";
-usbSStr.Pasw="Password";
-usbSStr.CfPass="Confirm Password";
-usbSStr.ADir="Add Shared Disk / Directory";
-usbSStr.ADsk="Add Shared Disk";
-usbSStr.CShare="Currently Shared Disks";
-usbSStr.Umnt="Unmount";
-usbSStr.UmntB="Unmount All USB Disks";
-usbSStr.UmntWarn="USB Disks should be unmounted before removal from the router. USB Disks still connected will be automatically remounted after next router reboot.";
-usbSStr.FDisk="Format Disk";
-usbSStr.NoUmntDev="<p>No attached, unmounted drives detected.</p><p>You must unmount drives before attempting to format them.</p>";
-usbSStr.FmtWarn="WARNING: Formatting a disk will permanently wipe out all contents of that disk.<p>Disk will be formatted for storage with EXT4 filesystem<br/>EXT4 may not be readable if USB drive is removed and attached to a Windows/Mac computer</p>";
-usbSStr.DskForm="Disk to format";
-usbSStr.PSwap="Percent Swap";
-usbSStr.PStor="Percent Storage";
-usbSStr.MExtr="Use Disk As External Root (Extroot)";
-usbSStr.FmtNow="Format Now";
+usbSStr.SDisk="Megosztott lemezek";
+usbSStr.Nomdsk="Nem található csatlakoztatott USB lemez";
+usbSStr.WFTP="Távoli FTP hozzáférés engedélyezése";
+usbSStr.WpFTP="Távoli passzív FTP hozzáférés engedélyezése";
+usbSStr.CFWkg="CIFS Munkacsoport";
+usbSStr.CFUsr="CIFS / FTP felhasználók";
+usbSStr.NewU="Új felhasználó";
+usbSStr.AddU="Felhasználó hozzáadása";
+usbSStr.Pasw="Jelszó";
+usbSStr.CfPass="Jelszó mégegyszer";
+usbSStr.ADir="Megosztott lemez / könyvtár hozzáadása;
+usbSStr.ADsk="Megosztott lemez hozzáadása";
+usbSStr.CShare="Jelenlegi megosztott lemezek";
+usbSStr.Umnt="Leválaszt";
+usbSStr.UmntB="Minden USB-s lemez leválasztása";
+usbSStr.UmntWarn="Az USB-s lemezeket le kell választani mielőtt eltávolítjuk a routerből. A jelenleg csatlakoztatott USB-s lemezek újra lesznek csatlakoztatva a router újraindítása után.";
+usbSStr.FDisk="Lemez formázása";
+usbSStr.NoUmntDev="<p>Nincs csatlakoztatott de nem csatolt meghajtó.</p><p>Le kell választania a meghajtót mielőtt formázná.</p>";
+usbSStr.FmtWarn="FIGYELEM: A lemezformázás minden tartalmat töröl az eszközről.<p>A lemezek EXT4 filerendszerrel lesznek formázva,<br/>ez esetleg nem lesz olvasható ha eltávolítja az USB-s meghajtót és csatlakoztatja egy Windows/MAC számítógéphez.</p>";
+usbSStr.DskForm="Formázandó lemez";
+usbSStr.PSwap="Swap százalékban";
+usbSStr.PStor="Adat százalékban";
+usbSStr.MExtr="Lemez használata mint EXTROOT";
+usbSStr.FmtNow="Formázás";
 usbSStr.ExtrS="Extroot";
-usbSStr.ExtrOff="Disable External Root";
-usbSStr.ExtDt="External root detected on";
-usbSStr.ExtrWarn="When using an external root drive or <strong>extroot</strong> an external USB drive becomes the root drive on your router. This can enable a very large root drive, but if you remove the drive all configuration changes since the extroot was activated will be lost.";
+usbSStr.ExtrOff="EXTROOT tiltása";
+usbSStr.ExtDt="EXTROOT érzékelve a meghajtón:";
+usbSStr.ExtrWarn="Amikor EXTROOT-ot használsz (legyen az egy particio vagy teljes USB-s lemez), a routered gyökérmeghajtója lesz. Ez nagyon nagy gyökérmeghajtót tesz lehetővé, de ha eltávolítod ezt a lemezt, az összes beállítás elveszlik amit az EXTROOT engedélyezése után tettél.";
 
 //template
-usbSStr.Disk="Disk";
-usbSStr.SDir="Subdirectory";
-usbSStr.SNam="Share Name";
+usbSStr.Disk="Lemez";
+usbSStr.SDir="Alkönyvtár";
+usbSStr.SNam="Megosztási név";
 usbSStr.SAppl="Settings Apply To";
 usbSStr.SPart="The Same Partition On Any USB Drive";
 usbSStr.SDriv="Only This Specific Drive";

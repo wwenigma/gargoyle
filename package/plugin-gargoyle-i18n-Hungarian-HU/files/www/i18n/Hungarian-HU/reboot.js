@@ -1,22 +1,22 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for reboot.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for reboot.sh html elements
  */
 
-rbS.RbSect="Reboot";
-rbS.SchRb="Scheduled Reboot";
-rbS.NoSch="No Scheduled Reboot";
-rbS.RbSch="Reboot Scheduled";
-rbS.WillR="Router Will Reboot";
-rbS.EDay="Every Day";
-rbS.EWek="Every Week";
-rbS.EMnh="Every Month";
-rbS.RDay="Reboot Day";
-rbS.RHr="Reboot Hour";
+rbS.RbSect="Újraindítás";
+rbS.SchRb="Időzített újraindítás";
+rbS.NoSch="Nincs időzített újraindítás";
+rbS.RbSch="Újraindítás időzítve";
+rbS.WillR="Az eszköz újraindul";
+rbS.EDay="Minden nap";
+rbS.EWek="Minden hét";
+rbS.EMnh="Minden hónap";
+rbS.RDay="Újraindítás napja";
+rbS.RHr="Újraindítás órája";
 
 //javascript
-rbS.SysR="System Is Now Rebooting";
-rbS.Digs="th";
-rbS.LD1s="st";
-rbS.LD2s="nd";
-rbS.LD3s="rd";
-rbS.DaysWArr=["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+rbS.SysR="A rendszer most újraindul";
+rbS.Digs=".";
+rbS.LD1s=".";
+rbS.LD2s=".";
+rbS.LD3s=".";
+rbS.DaysWArr=["Vasárnap", "Hétfő", "Kedd", "Szerda", "Csütörtök", "Péntek", "Szombat"];
