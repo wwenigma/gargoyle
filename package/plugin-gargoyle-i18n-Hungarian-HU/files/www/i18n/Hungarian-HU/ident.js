@@ -1,7 +1,7 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for identification.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for identification.sh html elements
  */
 
-idtS.IdSect="Identification";
+idtS.IdSect="Azonosítás";
 idtS.Domn="Domain";
-idtS.DevNm="Device Name";
+idtS.DevNm="Eszköznév";

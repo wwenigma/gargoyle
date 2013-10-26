@@ -1,8 +1,8 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for basic.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for basic.sh html elements
  */
 
-basicS.DCfgSect="Device Configuration";
+basicS.DCfgSect="Eszközkonfiguráció";
 basicS.CfgDev="Configure Device As";
 basicS.DvGtwy="Gateway (Default)";
 basicS.DvWBrg="Wireless Bridge/Repeater";

@@ -1,19 +1,19 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for login.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for login.sh html elements
  */
 
-logS.LSect="Login";
-logS.EAdmP="Enter Admin Password";
-logS.YQot="Your Quota";
-logS.NQot="Entire Network Quota";
-logS.CTime="Current Date &amp; Time";
+logS.LSect="Bejelentkezés";
+logS.EAdmP="Írja be a jelszót";
+logS.YQot="A kvótáda";
+logS.NQot="Teljes hálózati kvóta";
+logS.CTime="Jelenlegi dátum és idő";
 
 //javascript
-logS.passErr="ERROR: You must enter a password";
-logS.Lging="Logging In";
-logS.SExp="Session Expired";
-logS.InvP="Invalid Password";
-logS.LOut="Logged Out";
+logS.passErr="HIBA: be kell írni a jelszót";
+logS.Lging="Bejelentkezés";
+logS.SExp="A munkamenet lejárt";
+logS.InvP="Érvénytelen jelszó";
+logS.LOut="Kijelentkezve";
 logS.Qnam=["total up+down", "download", "upload" ];
 logS.of="of";
 logS.fQuo="for Quota";
