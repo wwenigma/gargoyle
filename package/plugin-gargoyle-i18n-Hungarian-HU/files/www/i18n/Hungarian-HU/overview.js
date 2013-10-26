@@ -1,48 +1,48 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for overview.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for overview.sh html elements
  */
 
-ovwS.Sts="Status";
-ovwS.DNam="Device Name";
-ovwS.GVer="Gargoyle Version";
-ovwS.Modl="Model";
-ovwS.DevC="Device Configuration";
-ovwS.MemU="Memory Usage";
-ovwS.SwMemU="Swap Memory Usage";
-ovwS.Conns="Connections";
-ovwS.CPUAvg="CPU Load Averages";
-ovwS.Uptm="Uptime";
-ovwS.CDaT="Current Date &amp; Time";
-ovwS.BrIPA="Bridge IP Address";
-ovwS.BrNMsk="Bridge Netmask";
-ovwS.BrMAdd="Bridge MAC Address";
+ovwS.Sts="Státusz";
+ovwS.DNam="Eszköznév";
+ovwS.GVer="Gargoyle verzió";
+ovwS.Modl="Modell";
+ovwS.DevC="Eszközkonfiguráció";
+ovwS.MemU="Memóriahasználat";
+ovwS.SwMemU="Swap használat";
+ovwS.Conns="Kapcsolatok";
+ovwS.CPUAvg="CPU átlagos terhelés";
+ovwS.Uptm="Futásidő";
+ovwS.CDaT="Jelenlegi dátum és idő";
+ovwS.BrIPA="Bridge IP cím";
+ovwS.BrNMsk="Bridge hálózati maszk";
+ovwS.BrMAdd="Bridge MAC cím";
 ovwS.LGtwy="LAN Gateway IP";
-ovwS.Cvia="Connected via";
+ovwS.Cvia="Csatlakozva ";
 ovwS.BrID="Bridge SSID";
-ovwS.LIPA="LAN IP Address";
-ovwS.LNmsk="LAN Netmask";
-ovwS.LMAdd="LAN MAC Address";
-ovwS.WIPA="WAN IP Address";
-ovwS.WNmsk="WAN Netmask";
-ovwS.WMAdd="WAN MAC Address";
+ovwS.LIPA="LAN IP cím";
+ovwS.LNmsk="LAN hálózati maszk";
+ovwS.LMAdd="LAN MAC cím";
+ovwS.WIPA="WAN IP cím";
+ovwS.WNmsk="WAN hálózati maszk";
+ovwS.WMAdd="WAN MAC cím";
 ovwS.WGtwy="WAN Gateway IP";
-ovwS.WDNS="WAN DNS Server(s)";
-ovwS.WUptm="WAN (PPPoE) Uptime";
-ovwS.W3GSS="WAN (3G) Signal Strength";
-ovwS.WlMod="Wireless Mode";
-ovwS.WlMAdd="Wireless MAC Address";
-ovwS.APID="Access Point SSID";
-ovwS.F5GID="5GHz Access Point SSID";
+ovwS.WDNS="WAN DNS Szerver(ek)";
+ovwS.WUptm="WAN (PPPoE) futásidő";
+ovwS.W3GSS="WAN (3G) jelerősség";
+ovwS.WlMod="Vezetéknélküli mód";
+ovwS.WlMAdd="Vezetéknélküli MAC cím";
+ovwS.APID="Hozzáférési pont (AP) SSID";
+ovwS.F5GID="5GHz hozzáférési pont (AP) SSID";
 ovwS.IDJoin="SSID Joined By Client";
-ovwS.QUp="QoS Upload";
-ovwS.QDwn="QoS Download";
+ovwS.QUp="QoS Feltöltés";
+ovwS.QDwn="QoS Letöltés";
 
 //javascript
-ovwS.AcPt="Access Point";
-ovwS.Clnt="Client";
+ovwS.AcPt="Hozzáférési pont (AP)";
+ovwS.Clnt="Kliens";
 ovwS.Gtwy="Gateway";
-ovwS.WBrgR="Wireless Bridge/Repeater";
-ovwS.Discon="Disconnected";
-ovwS.T2p4GID="2.4 GHz Access Point SSID";
-ovwS.ClBr="Client Bridge";
+ovwS.WBrgR="Vezetéknélküli Bridge/Repeater";
+ovwS.Discon="Szétkapcsolva";
+ovwS.T2p4GID="2.4 GHz hozzáférési pont (AP) SSID";
+ovwS.ClBr="Kliens Bridge";
 ovwS.Port="Port";
