@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for quotas.sh/quota_usage.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for quotas.sh/quota_usage.sh html elements
  */
 
 quotasStr.Section="Bandwidth Quotas";

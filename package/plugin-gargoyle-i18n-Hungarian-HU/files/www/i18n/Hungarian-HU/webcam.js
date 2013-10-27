@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for logread.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for logread.sh html elements
  */
 
 WebC.WebC="Webcam";

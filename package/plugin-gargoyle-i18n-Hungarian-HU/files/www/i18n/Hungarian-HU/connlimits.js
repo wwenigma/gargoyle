@@ -1,9 +1,9 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for conlimits.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for conlimits.sh html elements
  */
 
-connLS.CLSect="Connection Limits";
-connLS.MaxC="Max Connections";
-connLS.TTout="TCP Timeout";
-connLS.UTout="UDP Timeout";
+connLS.CLSect="Kapcsolatszám-limitek";
+connLS.MaxC="Max kapcsolatszám";
+connLS.TTout="TCP időtúllépés";
+connLS.UTout="UDP időtúllépés";
 connLS.max="max";

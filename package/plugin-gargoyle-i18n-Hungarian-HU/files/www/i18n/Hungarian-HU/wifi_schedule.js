@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for wifi_schedule.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for wifi_schedule.sh html elements
  */
 
 Wsch.Wisch="WiFi Schedule";

@@ -88,7 +88,7 @@ basicS.Allow="Enged";
 basicS.Rsln="Felbontás";
 basicS.RtrDNS="Kliensek kényszerítése a router DNS szerver használatára";
 basicS.WlMod="Vezetéknélküli mód";
-basicS.AcPt="Hozzáférési pont (AP)";
+basicS.AcPt="Hozzáférési pont";
 basicS.AcPtID="Hozzáférési pont (AP) SSID";
 basicS.Clnt="Kliens";
 //don't think Ad Hoc should be translated

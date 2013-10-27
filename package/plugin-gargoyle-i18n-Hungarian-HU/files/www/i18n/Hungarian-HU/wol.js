@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for wol.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for wol.sh html elements
  */
 
 wolS.WLSect="Wake on LAN";

@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) English-EN text strings for contrack.sh html elements
+ * UTF-8 (with BOM) Hungarian-HU text strings for contrack.sh html elements
  */
 
 connTS.CCSect="Current Connections";
