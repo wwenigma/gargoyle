@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for conlimits.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for conlimits.sh html elements
  */
 
 connLS.CLSect="Kapcsolatszám-limitek";

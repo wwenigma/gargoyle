@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for OpenVPN elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for OpenVPN elements
  */
 
 ovpnS.OCfg="OpenVPN Configuration";

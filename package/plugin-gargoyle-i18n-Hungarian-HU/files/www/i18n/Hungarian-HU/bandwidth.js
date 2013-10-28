@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for bandwidth.sh/bandwidth_distribution.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for bandwidth.sh/bandwidth_distribution.sh html elements
  */
 
 bndwS.GOpSect="Bandwidth Graph Display Options";

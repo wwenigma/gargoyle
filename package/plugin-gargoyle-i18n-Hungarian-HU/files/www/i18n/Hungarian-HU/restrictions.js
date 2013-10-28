@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for restrictions.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for restrictions.sh html elements
  */
 
 restStr.ARSect="Access Restrictions";

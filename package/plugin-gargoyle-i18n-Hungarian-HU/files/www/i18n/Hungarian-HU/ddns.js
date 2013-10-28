@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for ddns.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for ddns.sh html elements
  */
 
 DyDNS.DYSect="Dynamic DNS Services";

@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for login hook for tor html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for login hook for tor html elements
  */
 
 torLS.tIP="For your IP, Tor is";

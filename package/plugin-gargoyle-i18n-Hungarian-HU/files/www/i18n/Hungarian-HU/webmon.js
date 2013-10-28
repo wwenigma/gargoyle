@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for webmon.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for webmon.sh html elements
  */
 
 webmS.PrSect="Web Monitor Preferences";

@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for i18n-firstoot.sh & languages.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for i18n-firstoot.sh & languages.sh html elements
  */
 
 intS.LMSect="Nyelvi beállítások";

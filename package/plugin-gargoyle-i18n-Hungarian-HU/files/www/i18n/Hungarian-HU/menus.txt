@@ -2,7 +2,7 @@
 
 gargoyle_display_firewall="Tűzfal"
 gargoyle_display_firewall_portforwarding="Port-továbbítás"
-gargoyle_display_firewall_connlimits="Kapcsolati határok"
+gargoyle_display_firewall_connlimits="Kapcsolatlimitek"
 gargoyle_display_firewall_restriction="Megkötések"
 gargoyle_display_firewall_quotas="Kvóták"
 gargoyle_display_firewall_qosupload="QoS (Feltöltés)"

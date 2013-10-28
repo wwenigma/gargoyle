@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for qos_(upload|download|edit_class|edit_rule).sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for qos_(upload|download|edit_class|edit_rule).sh html elements
  */
 
 qosStr.URSection="QoS (Upload) -- Classification Rules";

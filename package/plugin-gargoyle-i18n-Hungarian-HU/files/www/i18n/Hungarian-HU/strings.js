@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for User Interface elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for User Interface elements
  */
 
 UI.SaveChanges="Beállítások mentése";

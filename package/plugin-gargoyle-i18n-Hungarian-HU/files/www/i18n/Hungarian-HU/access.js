@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for access.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for access.sh html elements
  */
 
 accessStr.Section="Web hozzáférés";

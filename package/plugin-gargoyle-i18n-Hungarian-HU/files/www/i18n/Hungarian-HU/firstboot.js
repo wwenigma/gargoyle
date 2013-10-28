@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for firstboot.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for firstboot.sh html elements
  */
 
 fbS.ISSect="Alap beállítások";

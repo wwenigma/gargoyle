@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for port_forwarding(single,multi).sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for port_forwarding(single,multi).sh html elements
  */
 
 prtS.PISect="Individual Port Forwarding";

@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for printers.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for printers.sh html elements
  */
 
 prnt.Attch="Attached USB Printers";

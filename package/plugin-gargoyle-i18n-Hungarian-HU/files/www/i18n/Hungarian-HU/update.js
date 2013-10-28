@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for update.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for update.sh html elements
  */
 
 upS.UpFrm="Firmware frissítés";

@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for USB Storage html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for USB Storage html elements
  */
 
 usbSStr.SDisk="Megosztott lemezek";

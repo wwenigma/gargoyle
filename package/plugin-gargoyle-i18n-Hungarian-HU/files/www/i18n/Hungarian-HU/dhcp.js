@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for dhcp.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for dhcp.sh html elements
  */
 
 dhcpS.SrvE="LAN DHCP Server Enabled";

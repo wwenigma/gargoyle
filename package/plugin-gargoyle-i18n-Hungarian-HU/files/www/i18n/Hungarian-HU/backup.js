@@ -1,5 +1,5 @@
 ﻿/*
- * UTF-8 (with BOM) Hungarian-HU text strings for backup.sh html elements
+ *  UTF-8 (with BOM) Hungarian-HU text strings for backup.sh html elements
  */
 
 bkS.CurrC="Jelenlegi beállítások mentése";
