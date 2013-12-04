@@ -2,10 +2,10 @@
  *  UTF-8 (with BOM) Hungarian-HU text strings for login hook for tor html elements
  */
 
-torLS.tIP="For your IP, Tor is";
-torLS.tEnab="Enable Tor For Your IP";
-torLS.tDisa="Disable Tor For Your IP";
-torLS.IPErr="ERROR: Your IP was not assigned by the DHCP server and is not configured as a known static IP\n\nTor configuration prohibited";
-torLS.EqErr="ERROR: Tor Per-IP matching disabled\n\nTor configuration prohibited";
-torLS.EnabMsg="Tor Successfully Disabled for your IP";
-torLS.DisbMsg="Tor Successfully Enabled for your IP";
+torLS.tIP="Az IP címedre a Tor";
+torLS.tEnab="Tor engedélyezés az IP címedre";
+torLS.tDisa="Tor kikapcsolása az IP címedre";
+torLS.IPErr="HIBA: Az IP címed nem DHCP által kiosztott és nem nem statikusként hozzárendelt\n\nTor konfiguráció tiltott";
+torLS.EqErr="HIBA: Tor Per-IP illesztés kikapcsolva\n\nTor konfiguráció tiltott";
+torLS.EnabMsg="Tor sikeresen letiltva az IP címedre";
+torLS.DisbMsg="Tor sikeresen engedélyezve az IP címedre";

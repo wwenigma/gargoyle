@@ -2,13 +2,13 @@
  *  UTF-8 (with BOM) Hungarian-HU text strings for contrack.sh html elements
  */
 
-connTS.CCSect="Current Connections";
-connTS.RRate="Refresh Rate";
-connTS.BUnt="Bandwidth Units";
-connTS.AtMxd="Auto (Mixed)";
-connTS.CnWarn="Connections between local hosts and the router are not displayed.";
+connTS.CCSect="Jelenlegi kapcsolatok";
+connTS.RRate="Frissítési gyakoriság";
+connTS.BUnt="Sávszélesség egység";
+connTS.AtMxd="Auto (vegyes)";
+connTS.CnWarn="A helyi hosztok és a router közötti kapcsolatok nincsenek megjelenítve.";
 connTS.PrNm="Proto";
-connTS.WLNm="WAN Host/LAN Host";
-connTS.UDNm="Bytes Up/Down";
-connTS.QSNm="QoS Up/Down";
+connTS.WLNm="WAN Hoszt/LAN Hoszt";
+connTS.UDNm="Bájt Fel/Le";
+connTS.QSNm="QoS Fel/Le";
 connTS.LPNm="L7 Proto";

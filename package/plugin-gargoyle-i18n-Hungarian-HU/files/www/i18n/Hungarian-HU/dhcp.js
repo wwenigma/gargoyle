@@ -2,17 +2,17 @@
  *  UTF-8 (with BOM) Hungarian-HU text strings for dhcp.sh html elements
  */
 
-dhcpS.SrvE="LAN DHCP Server Enabled";
-dhcpS.Drng="DHCP range";
-dhcpS.Strt="Start";
-dhcpS.End="End";
-dhcpS.LsTm="Lease Time";
-dhcpS.SIPs="Static IPs";
+dhcpS.SrvE="LAN DHCP Szerver bekapcsolva";
+dhcpS.Drng="DHCP keret";
+dhcpS.Strt="Kezdete";
+dhcpS.End="Vége";
+dhcpS.LsTm="Bérlet idő";
+dhcpS.SIPs="Fix IP-k";
 dhcpS.BlckM="Block MAC addresses assigned a static IP that connect from a different IP";
-dhcpS.AdSIP="Add Static IP Address";
+dhcpS.AdSIP="Fix IP cím hozzáadása";
 dhcpS.SelH="Select Hostname/MAC From Currently Connected Hosts";
-dhcpS.AsSIP="Assigned Static IP Addresses";
-dhcpS.opt="optional";
+dhcpS.AsSIP="Hozzárendelt fix IP címek";
+dhcpS.opt="opcionális";
 dhcpS.ESIP="Edit Static IP";
 dhcpS.dHErr="duplicate Hostname";
 dhcpS.dMErr="duplicate MAC";
